@@ -1,0 +1,8 @@
+## Android App
+- `npm install vue-cli -g`
+- add project
+- `npm install -g cordova`
+- `cordova create ionic-vue-cordova`
+- `cordova platform add android --save`
+- build
+- `cordova run android --device`
